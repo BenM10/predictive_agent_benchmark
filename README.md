@@ -31,8 +31,8 @@ The goal is to benchmark several agent tools on common data science workflows an
 
 ## Repository Structure
 
-task/ -> benchmark task specifications
-notebooks/ -> experimental notebooks
-results/ -> outputs from each agent
-figures/ -> plots used in the report
-appendix/ -> logs & prompts
+- task/ -> benchmark task specifications
+- notebooks/ -> experimental notebooks
+- results/ -> outputs from each agent
+- figures/ -> plots used in the report
+- appendix/ -> logs & prompts
