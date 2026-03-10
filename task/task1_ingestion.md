@@ -1,2 +1,18 @@
 # Task 1 - Dataset Ingestion
-Goal: test whether the agent can correctly ingest and validate a dataset.
+
+Objective:
+Test whether the agent can correctly load and validate a dataset.
+
+Dataset:
+
+
+Expected steps:
+- Load dataset using pandas
+- Inspect schema
+- Check missing values
+- Produce summary statistics
+
+Success criteria:
+- code runs without errors
+- dataset correctly loaded
+- missing values correctly reported
