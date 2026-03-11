@@ -1,14 +1,14 @@
-# Task 2 – Exploratory Data Analysis
+# Task 2 – Exploratory Data Analysis  
 
-Objective:
+#### Objective:
 Evaluate the agent's ability to produce meaningful exploratory analysis.
 
-Expected outputs:
+#### Expected outputs:
 - summary statistics
 - distribution plots
 - correlation analysis
 
-Success criteria:
+#### Success criteria:
 - plots generated
 - insights identified
 - code reproducible
