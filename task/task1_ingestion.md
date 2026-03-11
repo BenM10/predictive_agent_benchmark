@@ -1,18 +1,18 @@
 # Task 1 - Dataset Ingestion
 
-Objective:
+#### Objective:
 Test whether the agent can correctly load and validate a dataset.
 
-Dataset:
+#### Dataset:  
+Airline Passenger Satisfaction Dataset.
 
-
-Expected steps:
+#### Expected steps:
 - Load dataset using pandas
 - Inspect schema
 - Check missing values
 - Produce summary statistics
 
-Success criteria:
+#### Success criteria:
 - code runs without errors
 - dataset correctly loaded
 - missing values correctly reported
