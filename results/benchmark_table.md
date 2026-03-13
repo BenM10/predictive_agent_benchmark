@@ -22,7 +22,7 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 |-----|-----|-----|-----|-----|-----|-----|
 | Antigravity | 2 | 1.5 | 1 | 1 | 2 | 7.5 |
 | Claude |  |  |  |  |  |  |
-| Codex |  |  |  |  |  |  |
+| Codex | 1.5 | 1 |  0.5| 1 | 0.5 | 4.5 |
 
 ---
 
