@@ -11,7 +11,7 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 | Tool | Correctness | Statistical Validity | Code Quality | Insight Quality | Efficiency | Total |
 |-----|-----|-----|-----|-----|-----|-----|
 | Antigravity | 2 | 2 | 1 | 1 | 2 | 8 |
-| Claude |  |  |  |  |  |  |
+| Claude | 2 | 2 | 1.5 | 1 | 1.5 | 8 |
 | Codex | 1 | 1| 1 | 1 | 1 | 5 |
 
 ---
@@ -21,7 +21,7 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 | Tool | Correctness | Statistical Validity | Code Quality | Insight Quality | Efficiency | Total |
 |-----|-----|-----|-----|-----|-----|-----|
 | Antigravity | 2 | 1.5 | 1 | 1 | 2 | 7.5 |
-| Claude |  |  |  |  |  |  |
+| Claude | 1.5 | 1.5 | 1.5 | 1.5 | 1 | 7 |
 | Codex | 1.5 | 1 |  0.5| 1 | 0.5 | 4.5 |
 
 ---
@@ -31,7 +31,7 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 | Tool | Correctness | Statistical Validity | Code Quality | Insight Quality | Efficiency | Total |
 |-----|-----|-----|-----|-----|-----|-----|
 | Antigravity | 2 | 1 | 2 | 1 | 1 | 7 |
-| Claude |  |  |  |  |  |  |
+| Claude | 2 | 1.5 | 1.5 | 1.5 | 1 | 7.5 |
 | Codex |  |  |  |  |  |  |
 
 ---
