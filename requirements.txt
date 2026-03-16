@@ -1,1 +1,11 @@
+# Project Dependencies
 
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+nbformat
+
+# random state = 42
