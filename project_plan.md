@@ -13,7 +13,8 @@ Tasks:
 1. Dataset ingestion and schema validation
 2. Exploratory data analysis
 3. Baseline model training and evaluation
-4. Detecting and fixing data leakage
+4. Improving upon the baseline model
+5. Detecting and fixing data leakage
 
 Evaluation criteria:
 - correctness
