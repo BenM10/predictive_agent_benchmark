@@ -36,7 +36,7 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 
 ---
 
-## Task 4 — Data Leakage Detection
+## Task 4 — Model Improvement
 
 | Tool | Correctness | Statistical Validity | Code Quality | Insight Quality | Efficiency | Total |
 |-----|-----|-----|-----|-----|-----|-----|
@@ -46,10 +46,20 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 
 ---
 
+## Task 5 — Data Leakage Detection
+
+| Tool | Correctness | Statistical Validity | Code Quality | Insight Quality | Efficiency | Total |
+|-----|-----|-----|-----|-----|-----|-----|
+| Antigravity | 2 | 2 | 2 | 2 | 0 | 8 |
+| Claude |  |  |  |  |  |  |
+| Codex |  |  |  |  |  |  |
+
+---
+
 ## Overall Summary
 
-| Tool | Task 1 | Task 2 | Task 3 | Task 4 | Average Score |
-|-----|-----|-----|-----|-----|-----|
-| Antigravity |  |  |  |  |  |
-| Claude |  |  |  |  |  |
-| Codex |  |  |  |  |  |
+| Tool | Task 1 | Task 2 | Task 3 | Task 4 | Task 5 | Average Score | 
+|-----|-----|-----|-----|-----|-----|-----|
+| Antigravity | 8 | 7.5 | 7 | 6.5 | 8 | **7.4** |
+| Claude |  |  |  |  |  | ** ** |
+| Codex |  |  |  |  |  | ** ** |
