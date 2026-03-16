@@ -61,5 +61,5 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 | Tool | Task 1 | Task 2 | Task 3 | Task 4 | Task 5 | Average Score | 
 |-----|-----|-----|-----|-----|-----|-----|
 | Antigravity | 8 | 7.5 | 7 | 6.5 | 8 | **7.4** |
-| Claude |  |  |  |  |  | ** ** |
-| Codex |  |  |  |  |  | ** ** |
+| Claude |  |  |  |  |  | **x** |
+| Codex |  |  |  |  |  | **x** |
