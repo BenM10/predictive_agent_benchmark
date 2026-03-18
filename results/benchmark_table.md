@@ -66,7 +66,7 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 
 ---
 
-# Iteration Trackin
+# Iteration Tracking
 
 Iterations are recorded seperately from the score, but have played a part in the *efficiency* scoring.
 Recorded for each task is the number of follow up promtps required to achieve an appropriate standard of work. 
