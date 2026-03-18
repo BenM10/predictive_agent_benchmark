@@ -50,7 +50,7 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 
 | Tool | Correctness | Statistical Validity | Code Quality | Insight Quality | Efficiency | Total |
 |-----|-----|-----|-----|-----|-----|-----|
-| Antigravity | 1.5 | 1.5 | 1.5 | 1 | 2 | 7.5 |
+| Antigravity | 1.5 | 1.5 | 1.5 | 1 | 1 | 6.5 |
 | Claude | 2 | 2 | 2 | 1.5 | 2 | 9.5 |
 | Codex | 1 | 1 | 1.5 | 1 | 1.5 | 6 |
 
