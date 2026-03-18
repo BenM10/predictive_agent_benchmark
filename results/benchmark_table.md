@@ -63,3 +63,16 @@ Each criterion is scored from **0–2**, giving a maximum score of **10 per task
 | Antigravity | 8 | 7.5 | 7 | 6.5 | 8 | **7.4** |
 | Claude | 8.5 |  |  |  |  | **x** |
 | Codex |  |  |  |  |  | **x** |
+
+---
+
+# Iteration Trackin
+
+Iterations are recorded seperately from the score, but have played a part in the *efficiency* scoring.
+Recorded for each task is the number of follow up promtps required to achieve an appropriate standard of work. 
+
+| Tool | Task 1 | Task 2 | Task 3 | Task 4 | Task 5 |
+|-----|-----|-----|-----|-----|-----|
+| Claude | 0 | 0 | 0 | 1 |  |
+| Codex | 0 | 0 | 2 | 3 |  |
+| Antigravity | 0 | 0 | 2 | 1 | 2 |
