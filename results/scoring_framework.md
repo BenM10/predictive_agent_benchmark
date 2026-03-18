@@ -36,7 +36,7 @@ Iterations are recorded separately from the score.
 
 | Tool | Task | Initial Prompt | Follow-up Prompts | Total Iterations |
 |-----|-----|-----|-----|-----|
-| Claude | Task 1 | ✓ | 1 | 2 |
+| Claude | Task 1 | ✓ | 0 | 1 |
 | Codex | Task 1 | ✓ | 2 | 3 |
 | Antigravity | Task 1 | ✓ | 0 | 1 |
 
