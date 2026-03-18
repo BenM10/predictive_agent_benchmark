@@ -73,6 +73,6 @@ Recorded for each task is the number of follow up promtps required to achieve an
 
 | Tool | Task 1 | Task 2 | Task 3 | Task 4 | Task 5 |
 |-----|-----|-----|-----|-----|-----|
-| Claude | 0 | 0 | 0 | 1 |  |
+| Claude | 0 | 0 | 0 | 0 | 0 |
 | Codex | 0 | 0 | 2 | 3 |  |
 | Antigravity | 0 | 0 | 2 | 1 | 2 |
