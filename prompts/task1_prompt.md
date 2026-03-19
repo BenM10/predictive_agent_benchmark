@@ -30,20 +30,20 @@ Execution Environment
 The repository contains the following structure:
 data/processed/          → contains the dataset
 notebooks/task1/         → location where the experiment notebook should be saved
-results/antigravity/task1/ → location where experiment outputs should be logged
+results/INSERTMODEL/task1/ → location where experiment outputs should be logged
 Ensure all file paths are relative to the project root.
 
 Experiment Logging
 For reproducibility, ensure the following files are produced:
 Notebook running the generated code
-notebooks/task1/task1_antigravity.ipynb
-Save the cleaned dataset as antigravity_clean.csv to data/processed/
+notebooks/task1/task1_INSERTMODEL.ipynb
+Save the cleaned dataset as INSERTMODEL_clean.csv to data/processed/
 
 Generated Python code
-results/antigravity/task1/generated_code.py
+results/INSERTMODEL/task1/generated_code.py
 Prompt used for the experiment
-results/antigravity/task1/prompt.txt
+results/INSERTMODEL/task1/prompt.txt
 
 Experiment notes
-results/antigravity/task1/notes.md
+results/INSERTMODEL/task1/notes.md
 The notebook should execute the generated code and display the outputs.
