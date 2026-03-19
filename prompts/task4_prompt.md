@@ -43,9 +43,9 @@ The output should include:
 - Improved pipeline code
 - Explanation of changes made
 - Performance comparison table
--Final model performance on the test set
-Execution Environment
-The repository contains the following structure:
+-Final model performance on the test set  
+Execution Environment  
+The repository contains the following structure:  
 - `data/processed/` → contains the dataset
 - `notebooks/task4/` → location where the experiment notebook should be saved
 - `results/INSERTMODEL/task4/` → location where experiment outputs should be logged
