@@ -5,7 +5,7 @@ Task 5 — Detecting Data Leakage and Evaluation Issues
 You are again a data scientist reviewing a machine learning pipeline.
 
 The dataset is located at:
-data/processed/antigravity_clean.csv
+data/processed/INSERTMODEL_clean.csv
 
 A modelling pipeline has been written in the file:
 
@@ -30,17 +30,17 @@ Execution Environment
 The repository contains the following structure:
 - `data/processed/` → contains the dataset
 - `notebooks/task5/` → location where the experiment notebook should be saved
-- `results/antigravity/task5/` → location where experiment outputs should be logged
+- `results/INSERTMODEL/task5/` → location where experiment outputs should be logged
 Experiment Logging
 For reproducibility, ensure the following files are produced:
-- Any figures produced should be shown with a ‘save_and_show’ function which saves the figures to `figures/antigravity/` with a succinct and clear name which numbers the figures in order.
+- Any figures produced should be shown with a ‘save_and_show’ function which saves the figures to `figures/INSERTMODEL/` with a succinct and clear name which numbers the figures in order.
 - A MODULAR notebook containing the generated code in logical steps, with short markdown blocks explaining each step:
- `notebooks/task5/task5_antigravity.ipynb`
+ `notebooks/task5/task5_INSERTMODEL.ipynb`
 - A copy of the generated Python code:
- `results/antigravity/task5/generated_code.py`
+ `results/INSERTMODEL/task5/generated_code.py`
 - A text file containing the prompt used:
- `results/antigravity/task5/prompt.txt`
+ `results/INSERTMODEL/task5/prompt.txt`
 - A short notes file describing the experiment outcome:
- `results/antigravity/task5/notes.md`
+ `results/INSERTMODEL/task5/notes.md`
 The notebook should execute the generated code and display the outputs.
 Ensure that all file paths are relative to the project root.
