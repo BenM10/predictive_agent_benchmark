@@ -4,15 +4,15 @@ Task 4 - Improving Model performance
 You are still a data scientist working in Python within a project repository.
 The dataset is located at:
 data/processed/INSERTMODEL_clean.csv
-Task: Carrying on from the previous work, improve the predictive performance of the existing baseline model for the Airline Passenger Satisfaction dataset.
-Write Python code that:
+Task: Carrying on from the previous work, improve the predictive performance of the existing baseline model for the Airline Passenger Satisfaction dataset.  
+Write Python code that:  
 - Loads the dataset
 - Prepares the data for modelling
 - Trains an improved classification model or improves the existing modelling pipeline
 - Evaluates the improved model using appropriate classification metrics
-- Compares the improved model performance with the baseline approach
-Your Objective:
-Improve model performance using any combination of:
+- Compares the improved model performance with the baseline approach  
+Your Objective:  
+Improve model performance using any combination of:  
 - Feature engineering
 Create new features from existing variables
 Encode categorical variables appropriately
@@ -37,9 +37,9 @@ ROC-AUC
 Show baseline vs improved model performance
 Use common Python machine learning libraries such as pandas and scikit-learn.
 Include visualisations where helpful to illustrate model performance or feature importance.
-The goal is to produce a model that performs better than the baselines and demonstrate a clear modelling improvement.
-Expected Output:
-The output should include:
+The goal is to produce a model that performs better than the baselines and demonstrate a clear modelling improvement.  
+Expected Output:  
+The output should include:  
 - Improved pipeline code
 - Explanation of changes made
 - Performance comparison table
