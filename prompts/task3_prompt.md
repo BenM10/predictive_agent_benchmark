@@ -6,7 +6,7 @@ You are a data scientist working in Python within a project repository.
 
 The dataset is located at:
 
-data/processed/antigravity_clean.csv
+data/processed/INSERTMODEL_clean.csv
 
 The goal is to build a baseline machine learning model to predict passenger satisfaction.
 
@@ -32,25 +32,25 @@ The repository contains the following structure:
 
 - `data/processed/` → contains the dataset
 - `notebooks/task3/` → location where the experiment notebook should be saved
-- `results/antigravity/task3/` → location where experiment outputs should be logged
+- `results/INSERTMODEL/task3/` → location where experiment outputs should be logged
 
 Experiment Logging
 
 For reproducibility, ensure the following files are produced:
 
-- Any figures produced should be shown with a ‘save_and_show’ function which saves the figures to `figures/antigravity/` with a succinct and clear name which numbers the figures in order.
+- Any figures produced should be shown with a ‘save_and_show’ function which saves the figures to `figures/INSERTMODEL/` with a succinct and clear name which numbers the figures in order.
 
 - A MODULAR notebook running the generated code:
-  `notebooks/task3/task3_antigravity.ipynb`
+  `notebooks/task3/task3_INSERTMODEL.ipynb`
 
 - A copy of the generated Python code:
-  `results/antigravity/task3/generated_code.py`
+  `results/INSERTMODEL/task3/generated_code.py`
 
 - A text file containing the prompt used:
-  `results/antigravity/task3/prompt.txt`
+  `results/INSERTMODEL/task3/prompt.txt`
 
 - A short notes file describing the experiment outcome:
-  `results/antigravity/task3/notes.md`
+  `results/INSERTMODEL/task3/notes.md`
 
 The notebook should execute the generated code and display the outputs.
 
